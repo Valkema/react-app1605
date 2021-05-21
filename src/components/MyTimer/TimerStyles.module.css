@@ -1,0 +1,45 @@
+
+.wrapper {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ width: 80%;
+ height: 80vh;
+ margin: 5% auto;
+ background-color: rgb(0, 255, 136);
+ border-radius: 45px;
+}
+
+.headerStyle{
+ font-size: 8rem;
+ color: rgb(199, 0, 0);
+}
+
+.btnSrart{
+width: 70%;
+height: 5em;
+border-radius: 45px;
+background-color: rgb(10, 126, 0);
+color: rgb(255, 255, 255);
+font-size: 18px;
+}
+
+.btnStop{
+    width: 70%;
+    height: 5em;
+    border-radius: 45px;
+    background-color: rgb(199, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+.btnRes{
+    margin-top: 2em;
+    width: 70%;
+    height: 5em;
+    border-radius: 45px;
+    background-color: rgb(10, 126, 0);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
